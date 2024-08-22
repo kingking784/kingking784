@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingking784
-This is a bus reservation platform constructed using microservice technology, which is still being improved
+love java
 
 <!---
 kingking784/kingking784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
